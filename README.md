@@ -1,10 +1,15 @@
 # ⚛️ React Interview Questions & MCQs
 
+[![GitHub stars](https://img.shields.io/github/stars/priyakumari1209/react-interview-questions?style=social)](https://github.com/priyakumari1209/react-interview-questions/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/priyakumari1209/react-interview-questions?style=social)](https://github.com/priyakumari1209/react-interview-questions/network)
+[![GitHub issues](https://img.shields.io/github/issues/priyakumari1209/react-interview-questions)](https://github.com/priyakumari1209/react-interview-questions/issues)
+[![GitHub license](https://img.shields.io/github/license/priyakumari1209/react-interview-questions)](https://github.com/priyakumari1209/react-interview-questions/blob/main/LICENSE)
+
 🔥 A curated collection of **React Interview Questions** with:
 
 - ✅ Multiple-choice questions (MCQs)  
 - 💡 Detailed explanations  
-- 📝 Code examples & mini-project snippets  
+- 📝 Code examples & mini-projects  
 - 🏗️ Best practices & architecture tips  
 
 ---
